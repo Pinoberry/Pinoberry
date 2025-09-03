@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
 
 <!--
 **Pinoberry/Pinoberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
