@@ -9,10 +9,8 @@
 
 # Sobre mí  
 Soy **Analista Programador Full-Stack** con **1 año de experiencia**, principalmente en **desarrollo web**.  
-Tengo 27 años y desde que inicié en la programación descubrí una gran pasión por crear soluciones tecnológicas que aporten valor real a las personas y a las empresas.  
-
+Tengo 27 años y desde que inicié en la programación descubrí una gran pasión por crear soluciones tecnológicas que aporten valor real a las personas y a las empresas. 
 Mi experiencia se centra en el uso de tecnologías modernas como **JavaScript, React, Node.js, Express y bases de datos SQL/NoSQL**.  
-
 Disfruto de todo el proceso de construcción de un proyecto: desde el diseño inicial, la arquitectura del backend, hasta la experiencia de usuario en el frontend.  
 
 ---
