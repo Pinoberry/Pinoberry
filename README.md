@@ -32,19 +32,19 @@ Esto me permite integrarme fácilmente en distintos entornos tecnológicos y apo
 
 ## Más sobre mí  
 Fuera del mundo de la programación, hay pasiones que me definen:  
-- 🎶 **Música**: toco guitarra y teclado, lo que refuerza mi creatividad y disciplina.  
-- 🎮 **Videojuegos**: estimulan mi pensamiento estratégico y resolución de problemas.  
-- 🤝 **Sociabilidad**: disfruto aprender de otros y trabajar en equipo.  
+- **Música**: toco guitarra y teclado, lo que refuerza mi creatividad y disciplina.  
+- **Videojuegos**: estimulan mi pensamiento estratégico y resolución de problemas.  
+- **Sociabilidad**: disfruto aprender de otros y trabajar en equipo.  
 
 Estos intereses enriquecen mi forma de programar: me ayudan a ser **constante, creativo y abierto a nuevos retos**.  
 
 ---
 
 ## ¿Por qué trabajar conmigo?  
-- 💡 Soy **proactivo** y siempre busco soluciones en lugar de enfocarme en los problemas.  
-- 🚀 Tengo capacidad de **aprender rápido** y adaptarme a distintos entornos tecnológicos.  
-- 🤝 Valoro el **trabajo en equipo** y la **comunicación clara**.  
-- 🏆 Busco la **excelencia en el código**, aplicando buenas prácticas y metodologías ágiles.  
+- Soy **proactivo** y siempre busco soluciones en lugar de enfocarme en los problemas.  
+- Tengo capacidad de **aprender rápido** y adaptarme a distintos entornos tecnológicos.  
+- Valoro el **trabajo en equipo** y la **comunicación clara**.  
+- Busco la **excelencia en el código**, aplicando buenas prácticas y metodologías ágiles.  
 
 ---
 
