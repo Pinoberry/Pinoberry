@@ -18,6 +18,7 @@ Disfruto de todo el proceso de construcción de un proyecto: desde el diseño in
 
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 ## 🚀 Objetivos profesionales  
 - Seguir perfeccionando mis habilidades como **desarrollador Full-Stack**.  
 - Aprender y aplicar nuevas tecnologías que fortalezcan mi perfil profesional.  
