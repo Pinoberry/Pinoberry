@@ -4,7 +4,7 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='100"'>
 
-# 👨‍💻 Sobre mí  
+# Sobre mí  
 Soy **Analista Programador Full-Stack** con **1 año de experiencia en desarrollo web**.  
 A mis 27 años descubrí que mi verdadera pasión está en crear **soluciones tecnológicas que generen valor real** para las personas y las empresas.  
 
@@ -15,7 +15,7 @@ Disfruto cada etapa del proceso: desde la **arquitectura backend** hasta la **ex
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-## 🚀 Objetivos profesionales  
+## Objetivos profesionales  
 - Fortalecer mis habilidades como **desarrollador Full-Stack**.  
 - Aprender y aplicar nuevas tecnologías que expandan mi perfil profesional.  
 - Colaborar en **equipos multidisciplinarios** que me desafíen a crecer.  
@@ -23,14 +23,14 @@ Disfruto cada etapa del proceso: desde la **arquitectura backend** hasta la **ex
 
 ---
 
-## 💡 Filosofía de aprendizaje  
+## Filosofía de aprendizaje  
 Me considero una persona **curiosa, autodidacta y adaptable**.  
 Creo firmemente que la mejor manera de crecer es **construyendo, compartiendo y colaborando**.  
 Esto me permite integrarme fácilmente en distintos entornos tecnológicos y aportar desde el primer día.  
 
 ---
 
-## 🎸 Más sobre mí  
+## Más sobre mí  
 Fuera del mundo de la programación, hay pasiones que me definen:  
 - 🎶 **Música**: toco guitarra y teclado, lo que refuerza mi creatividad y disciplina.  
 - 🎮 **Videojuegos**: estimulan mi pensamiento estratégico y resolución de problemas.  
@@ -40,7 +40,7 @@ Estos intereses enriquecen mi forma de programar: me ayudan a ser **constante, c
 
 ---
 
-## 💬 ¿Por qué trabajar conmigo?  
+## ¿Por qué trabajar conmigo?  
 - 💡 Soy **proactivo** y siempre busco soluciones en lugar de enfocarme en los problemas.  
 - 🚀 Tengo capacidad de **aprender rápido** y adaptarme a distintos entornos tecnológicos.  
 - 🤝 Valoro el **trabajo en equipo** y la **comunicación clara**.  
